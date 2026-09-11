@@ -2,17 +2,17 @@
 
 > Sistema web completo desenvolvido em PHP nativo e MySQL para gerenciamento de clínicas, suporte a múltiplos perfis de usuários (Administradores, Médicos, Enfermagem e Pacientes), controle de consultas, exames, vacinação e painéis analíticos.
 
-🔗 **Acesse a aplicação online:** [HealthTech no Render](https://sistema-gestao-clinica-healthtech-php.onrender.com)
+🔗 **Acesse a aplicação online:** <a href="https://sistema-gestao-clinica-healthtech-php.onrender.com" target="_blank">HealthTech Online</a>
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
 * **Linguagem:** PHP (Nativo)
-* **Banco de Dados:** MySQL (Hospedado via nuvem)
+* **Banco de Dados:** MySQL (Gerenciado via <a href="https://www.freesqldatabase.com/account/" target="_blank">FreeSQLDatabase</a>)
 * **Servidor Web / Container:** Apache HTTP Server via **Docker**
 * **Frontend / Estilização:** Bootstrap 5, FontAwesome, Leaflet.js
-* **Hospedagem & Deploy:** Render (Web Service)
+* **Hospedagem & Deploy:** Web Service em nuvem gerenciado via <a href="https://dashboard.render.com/" target="_blank">Render</a>
 
 ---
 
