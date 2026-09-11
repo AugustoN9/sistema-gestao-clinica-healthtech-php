@@ -1,7 +1,7 @@
 <?php
 // ===== INÍCIO DA NOVA LÓGICA DE AUTORIZAÇÃO =====
 require_once '../auth.php'; // Inclui o script de autenticação
-session_start(); // Garante que a sessão está iniciada para usar $_SESSION
+//session_start(); // Garante que a sessão está iniciada para usar $_SESSION
 
 // 1. Verifica se o usuário está logado
 if (!isset($_SESSION['usuario_id'])) {
